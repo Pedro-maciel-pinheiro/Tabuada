@@ -12,7 +12,7 @@ body {
   align-items: center;
 }
 
-                                                          /* /////////SECTION / INPUT / BUTTON /////////////////////////////////// */
+/* /////////SECTION / INPUT / BUTTON /////////////////////////////////// */
 
 section {
   margin-top: 4%;
@@ -32,7 +32,6 @@ section {
   box-shadow: black 1px 1px 1px 1px;
 }
 input {
-  
   color: black;
   border-radius: 5px;
   box-shadow: rgba(0, 0, 0, 0.623) 1px 1px 1px 1px;
@@ -43,14 +42,13 @@ input {
   transform: translateY(2px);
 }
 
-                                                        /* /////////////// SELECT///////////////////////////// */
+/* /////////////// SELECT///////////////////////////// */
 
 select {
   min-width: 100px;
   padding: 3px;
   margin-top: 5%;
   font-size: 15px;
-  
 
   border: solid 1px black;
   border-radius: 5px;
@@ -61,7 +59,7 @@ select {
 select:hover {
   transform: scale(1.1);
 }
-                                                    /* //////////////FOOTER AND SIDEBAR////////////////////////////// */
+/* //////////////FOOTER AND SIDEBAR////////////////////////////// */
 
 footer {
   margin-top: 5%;
@@ -75,9 +73,9 @@ footer {
 *::-webkit-scrollbar-track {
   background: transparent;
 }
-                                                    /* /////////////ANIMATION/////////////////////////////// */
+/* /////////////ANIMATION/////////////////////////////// */
 .TABUADA {
-  margin-top: 5%;  
+  margin-top: 5%;
   position: relative;
   -webkit-box-reflect: below -20px linear-gradient(transparent, rgba(0, 0, 0, 0.2));
   font-size: 60px;
